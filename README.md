@@ -72,6 +72,7 @@ AI tools for creating and generating video content.
 | [D-ID](https://d-id.com/) | Photo-to-video with talking avatars | Freemium | [Review](https://faceless.directory/directory/d-id) |
 | [Lumen5](https://lumen5.com/) | Blog-to-video with AI | Freemium | [Review](https://faceless.directory/directory/lumen5) |
 | [Fliki](https://fliki.ai/) | Text-to-video with AI voices | From $21/mo | [Review](https://faceless.directory/directory/fliki) |
+| [PopcornAI](https://popcornai.art/) | AI video and image generator for short-form creative, launch visuals, and faceless creator workflows | Freemium |
 
 **Pro tip:** Runway for B-roll, InVideo for fast complete videos.
 

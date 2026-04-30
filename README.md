@@ -126,6 +126,7 @@ Automate your content workflow.
 | [Repurpose.io](https://repurpose.io/) | Auto-post to multiple platforms | From $25/mo | [Review](https://faceless.directory/directory/repurpose) |
 | [Buffer](https://buffer.com/) | Social media scheduling | Freemium | [Review](https://faceless.directory/directory/buffer) |
 | [Hootsuite](https://hootsuite.com/) | Social media management | From $99/mo | [Review](https://faceless.directory/directory/hootsuite) |
+| [Cyber Collector](https://t.me/cybercollectorbot) | Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io) | Free | — |
 
 **Pro tip:** Start with Zapier for simplicity, switch to Make for cost savings.
 

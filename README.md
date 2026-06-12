@@ -35,6 +35,7 @@ Tools for writing video scripts, generating ideas, and creating content.
 | [Jasper](https://jasper.ai/) | AI copywriting with marketing focus | From $49/mo | [Review](https://faceless.directory/directory/jasper) |
 | [Copy.ai](https://copy.ai/) | Quick content generation with templates | Freemium | [Review](https://faceless.directory/directory/copyai) |
 | [Writesonic](https://writesonic.com/) | AI writer with built-in fact-checking | Freemium | [Review](https://faceless.directory/directory/writesonic) |
+| [CreatorSkills](https://creatorskills.co) | Marketplace of 30+ downloadable AI skills for YouTube scripting, sponsorship analysis, and audience growth | From $9 | — |
 
 **Pro tip:** Use ChatGPT for ideas and hooks, Claude for long-form scripts.
 

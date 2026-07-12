@@ -112,6 +112,7 @@ Text/image-to-video, avatars, and “full video from prompt” tools.
 | [Haiper](https://haiper.ai/) | Quick social-ready generations | Freemium | — |
 | [Pika](https://pika.art/) | Fast creative video clips | Free tier | [Review](https://faceless.directory/directory/pika) |
 | [InVideo AI](https://invideo.io/) | Idea → full video with stock | From $25/mo | [Review](https://faceless.directory/directory/invideo) |
+| [ImagineClip](https://imagineclip.com/ai-text-to-video) | Text/image-to-video clips plus effects for social B-roll | Freemium | — |
 | [Pictory](https://pictory.ai/) | Script/blog → video | From $19/mo | [Review](https://faceless.directory/directory/pictory) |
 | [Fliki](https://fliki.ai/) | Text-to-video + AI voices | From $21/mo | [Review](https://faceless.directory/directory/fliki) |
 | [Synthesia](https://synthesia.io/) | AI avatars (talking head without you) | From $22/mo | [Review](https://faceless.directory/directory/synthesia) |

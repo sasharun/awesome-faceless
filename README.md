@@ -113,6 +113,7 @@ Text/image-to-video, avatars, and “full video from prompt” tools.
 | [Pika](https://pika.art/) | Fast creative video clips | Free tier | [Review](https://faceless.directory/directory/pika) |
 | [InVideo AI](https://invideo.io/) | Idea → full video with stock | From $25/mo | [Review](https://faceless.directory/directory/invideo) |
 | [Pictory](https://pictory.ai/) | Script/blog → video | From $19/mo | [Review](https://faceless.directory/directory/pictory) |
+| [videos.social](https://videos.social/?utm_source=awesome-faceless&utm_medium=directory&utm_campaign=listing-wave-d) | Editable faceless video from blogs and PDFs | 1 free render; packs from $10 | — |
 | [Fliki](https://fliki.ai/) | Text-to-video + AI voices | From $21/mo | [Review](https://faceless.directory/directory/fliki) |
 | [Synthesia](https://synthesia.io/) | AI avatars (talking head without you) | From $22/mo | [Review](https://faceless.directory/directory/synthesia) |
 | [HeyGen](https://heygen.com/) | Avatars + voice cloning | From $24/mo | [Review](https://faceless.directory/directory/heygen) |

@@ -157,6 +157,7 @@ Editors + Shorts/Reels clip factories.
 | [Ideogram](https://ideogram.ai/) | Readable text in images | Freemium | [Review](https://faceless.directory/directory/ideogram) |
 | [Adobe Firefly](https://firefly.adobe.com/) | Generative fill in Adobe stack | Freemium | [Review](https://faceless.directory/directory/firefly) |
 | [Photoshop](https://www.adobe.com/products/photoshop.html) | Final polish | $20/mo | [Review](https://faceless.directory/directory/photoshop) |
+| [Feed Thumbnail](https://feedthumbnail.com/youtube-thumbnail-size) | Browser-based YouTube thumbnail preview and size reference | Free | — |
 
 **Pro tip:** Generate in Midjourney/Flux, **finish text & face crop in Canva** — CTR lives or dies on readable title text.
 

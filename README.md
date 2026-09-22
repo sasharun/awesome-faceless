@@ -140,6 +140,7 @@ Editors + Shorts/Reels clip factories.
 | [Submagic](https://www.submagic.co/) | Captions + hook-style Shorts edits | Paid | — |
 | [Vizard](https://vizard.ai/) | AI clipping for social | Freemium / paid | — |
 | [Munch](https://www.getmunch.com/) | AI repurposing / clips | Paid | — |
+| [shortshort](https://www.shortshort.io/) | Long video to 9:16 shorts, captions | Free; from EUR 12/mo | — |
 
 **Pro tip:** CapCut for beginners; Opus/Submagic/Vizard when long-form → Shorts is the growth loop.
 

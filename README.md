@@ -106,6 +106,7 @@ Text/image-to-video, avatars, and “full video from prompt” tools.
 |------|-------------|---------|--------|
 | [Kling AI](https://klingai.com/) | Strong motion, popular for Shorts B-roll | Freemium / paid | — |
 | [Luma Dream Machine](https://lumalabs.ai/dream-machine) | Fast cinematic generations | Freemium | — |
+| [Magic Hour](https://magichour.ai/) | Gen video, face swap, lip sync, video-to-video | Free tier / paid | — |
 | [Runway](https://runwayml.com/) | Gen video, editing tools, pro workflows | From $12/mo | [Review](https://faceless.directory/directory/runway) |
 | [Google Veo](https://deepmind.google/models/veo/) | High-quality text-to-video (access varies) | Paid / preview | — |
 | [MiniMax Hailuo](https://hailuoai.video/) | Competitive T2V for social clips | Freemium | — |

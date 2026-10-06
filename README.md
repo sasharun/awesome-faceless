@@ -210,6 +210,7 @@ Editors + Shorts/Reels clip factories.
 | [Airtable](https://airtable.com/) | Pipeline database | Freemium | [Review](https://faceless.directory/directory/airtable) |
 | [ClickUp](https://clickup.com/) | Tasks for multi-channel ops | Freemium | [Review](https://faceless.directory/directory/clickup) |
 | [Trello](https://trello.com/) | Simple kanban | Freemium | [Review](https://faceless.directory/directory/trello) |
+| [ComprarSeguidoresIG content planner (Spanish)](https://comprarseguidoresig.es/resources/es/content-planner.xlsx) | Spanish XLSX for 30 manual content-planning slots | Free | — |
 
 ---
 

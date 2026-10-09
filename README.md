@@ -138,6 +138,7 @@ Editors + Shorts/Reels clip factories.
 | [Kapwing](https://kapwing.com/) | Online editor, subtitles | Freemium | [Review](https://faceless.directory/directory/kapwing) |
 | [Opus Clip](https://opus.pro/) | Long video → viral Shorts | From $15/mo | [Review](https://faceless.directory/directory/opus-clip) |
 | [Submagic](https://www.submagic.co/) | Captions + hook-style Shorts edits | Paid | — |
+| [ViralWiz](https://viralwiz.co/) | AI captions for short-form video, 50+ languages, viral clips & thumbnails | Freemium | — |
 | [Vizard](https://vizard.ai/) | AI clipping for social | Freemium / paid | — |
 | [Munch](https://www.getmunch.com/) | AI repurposing / clips | Paid | — |
 

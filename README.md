@@ -223,6 +223,7 @@ GitHub projects that generate faceless videos end-to-end (great for learning aut
 | [aruntemme/n8n-faceless-youtube](https://github.com/aruntemme/n8n-faceless-youtube) | n8n workflows for faceless YT |
 | [mmagdyelsafty/faceless-video-pipeline](https://github.com/mmagdyelsafty/faceless-video-pipeline) | Prompt → upload-ready video toolkit |
 | [jansencruz23/faceless-youtube-factory](https://github.com/jansencruz23/faceless-youtube-factory) | FastAPI + LangGraph factory pattern |
+| [PowerTokens/video-studio](https://github.com/PowerTokens/video-studio) | MIT batch/compare Wan·Seedance·Kling from a shot list |
 
 Use these to understand the pipeline; for monetized channels, swap in paid TTS/video for quality.
 

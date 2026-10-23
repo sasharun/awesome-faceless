@@ -109,6 +109,7 @@ Text/image-to-video, avatars, and “full video from prompt” tools.
 | [Runway](https://runwayml.com/) | Gen video, editing tools, pro workflows | From $12/mo | [Review](https://faceless.directory/directory/runway) |
 | [Google Veo](https://deepmind.google/models/veo/) | High-quality text-to-video (access varies) | Paid / preview | — |
 | [MiniMax Hailuo](https://hailuoai.video/) | Competitive T2V for social clips | Freemium | — |
+| [Pixwit](https://pixwit.ai/) | AI photo-to-video / meme dance effects for Shorts | Freemium | — |
 | [Haiper](https://haiper.ai/) | Quick social-ready generations | Freemium | — |
 | [Pika](https://pika.art/) | Fast creative video clips | Free tier | [Review](https://faceless.directory/directory/pika) |
 | [InVideo AI](https://invideo.io/) | Idea → full video with stock | From $25/mo | [Review](https://faceless.directory/directory/invideo) |

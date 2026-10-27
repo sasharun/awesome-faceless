@@ -99,6 +99,7 @@ Narration quality is the #1 retention lever for faceless channels.
 ---
 
 ## 🎬 Video Generation
+| [Ideoy](https://ideoy.ai) | Remake this week's viral meme videos from one selfie (MiniMax H3, 9:16) | Freemium | — |
 
 Text/image-to-video, avatars, and “full video from prompt” tools.
 

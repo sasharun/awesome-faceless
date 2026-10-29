@@ -93,6 +93,7 @@ Narration quality is the #1 retention lever for faceless channels.
 | [Speechify](https://speechify.com/) | Natural voices, speed control | Freemium | [Review](https://faceless.directory/directory/speechify) |
 | [LOVO AI](https://lovo.ai/) | Voices + emotion controls | From $24/mo | [Review](https://faceless.directory/directory/lovo) |
 | [OpenAI TTS](https://platform.openai.com/docs/guides/text-to-speech) | API voices for automation pipelines | Pay-as-you-go | — |
+| [SuperClonica](https://superclonica.com/) | Free offline TTS, 190+ narrator and character voices | Freemium | — |
 
 **Pro tip:** ElevenLabs for hero voice; Cartesia/Fish when you automate high volume.
 

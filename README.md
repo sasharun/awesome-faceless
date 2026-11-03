@@ -118,6 +118,7 @@ Text/image-to-video, avatars, and “full video from prompt” tools.
 | [HeyGen](https://heygen.com/) | Avatars + voice cloning | From $24/mo | [Review](https://faceless.directory/directory/heygen) |
 | [D-ID](https://d-id.com/) | Photo → talking avatar | Freemium | [Review](https://faceless.directory/directory/d-id) |
 | [Lumen5](https://lumen5.com/) | Blog-to-video | Freemium | [Review](https://faceless.directory/directory/lumen5) |
+| [Seedance Now](https://seedancenow.com/) | Multi-model text/image-to-video (Seedance 2.5, Kling 4.0, Wan 3.0), up to 30s at 1080p | Free 5 credits / from $14.9/mo | — |
 
 **Pro tip:** Use Kling/Luma/Runway for **B-roll**; use InVideo/Pictory when you need a **finished cut** fast. Avatars (HeyGen/Synthesia) are a different niche (explainers/corporate), not pure “reddit story” style.
 

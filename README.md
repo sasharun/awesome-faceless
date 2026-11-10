@@ -73,6 +73,7 @@ Tools for scripts, titles, hooks, and research.
 | [Jasper](https://jasper.ai/) | Marketing-oriented copy | From $49/mo | [Review](https://faceless.directory/directory/jasper) |
 | [Copy.ai](https://copy.ai/) | Templates for hooks and descriptions | Freemium | [Review](https://faceless.directory/directory/copyai) |
 | [Writesonic](https://writesonic.com/) | Writer with fact-check features | Freemium | [Review](https://faceless.directory/directory/writesonic) |
+| [Prompt Generator](https://trypromptgenerator.com) | Writes prompts for ChatGPT, Claude, Midjourney, Veo, Kling | Freemium | — |
 
 **Pro tip:** ChatGPT/Gemini for volume; Claude for long narration scripts you will actually voice.
 

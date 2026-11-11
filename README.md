@@ -111,7 +111,7 @@ Text/image-to-video, avatars, and “full video from prompt” tools.
 | [MiniMax Hailuo](https://hailuoai.video/) | Competitive T2V for social clips | Freemium | — |
 | [Haiper](https://haiper.ai/) | Quick social-ready generations | Freemium | — |
 | [Pika](https://pika.art/) | Fast creative video clips | Free tier | [Review](https://faceless.directory/directory/pika) |
-| [Menivor](https://menivor.com/) | Paste a link, get 3 vertical reels with AI voiceover + word-by-word captions, auto-posted | 3 free reels, then paid | — |
+| [Menivor](https://menivor.com/) | Paste a link, get 3 vertical reels with AI voiceover + word-by-word captions | 3 free reels, then paid | — |
 | [InVideo AI](https://invideo.io/) | Idea → full video with stock | From $25/mo | [Review](https://faceless.directory/directory/invideo) |
 | [Pictory](https://pictory.ai/) | Script/blog → video | From $19/mo | [Review](https://faceless.directory/directory/pictory) |
 | [Fliki](https://fliki.ai/) | Text-to-video + AI voices | From $21/mo | [Review](https://faceless.directory/directory/fliki) |

@@ -136,6 +136,7 @@ Editors + Shorts/Reels clip factories.
 | [Final Cut Pro](https://www.apple.com/final-cut-pro/) | Mac pro editor | $299 one-time | [Review](https://faceless.directory/directory/finalcut) |
 | [VEED](https://veed.io/) | Browser editor + AI | Freemium | [Review](https://faceless.directory/directory/veed) |
 | [Kapwing](https://kapwing.com/) | Online editor, subtitles | Freemium | [Review](https://faceless.directory/directory/kapwing) |
+| [Vidmoat](https://vidmoat.com/?utm_source=sasharun-awesome-faceless&utm_medium=directories-bot&utm_campaign=2026-11-20-am) | Browser AI video editor; an agent edits your footage on a real timeline (captions, voiceover, music, vertical reframing) | Freemium | — |
 | [Opus Clip](https://opus.pro/) | Long video → viral Shorts | From $15/mo | [Review](https://faceless.directory/directory/opus-clip) |
 | [Submagic](https://www.submagic.co/) | Captions + hook-style Shorts edits | Paid | — |
 | [Vizard](https://vizard.ai/) | AI clipping for social | Freemium / paid | — |

@@ -137,6 +137,7 @@ Editors + Shorts/Reels clip factories.
 | [VEED](https://veed.io/) | Browser editor + AI | Freemium | [Review](https://faceless.directory/directory/veed) |
 | [Kapwing](https://kapwing.com/) | Online editor, subtitles | Freemium | [Review](https://faceless.directory/directory/kapwing) |
 | [Opus Clip](https://opus.pro/) | Long video → viral Shorts | From $15/mo | [Review](https://faceless.directory/directory/opus-clip) |
+| [OpenShorts.io](https://openshorts.io/) | AI clips and captions from long videos | Freemium; 15 min/mo, watermarked | — |
 | [Submagic](https://www.submagic.co/) | Captions + hook-style Shorts edits | Paid | — |
 | [Vizard](https://vizard.ai/) | AI clipping for social | Freemium / paid | — |
 | [Munch](https://www.getmunch.com/) | AI repurposing / clips | Paid | — |

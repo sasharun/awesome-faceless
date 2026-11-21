@@ -73,6 +73,7 @@ Tools for scripts, titles, hooks, and research.
 | [Jasper](https://jasper.ai/) | Marketing-oriented copy | From $49/mo | [Review](https://faceless.directory/directory/jasper) |
 | [Copy.ai](https://copy.ai/) | Templates for hooks and descriptions | Freemium | [Review](https://faceless.directory/directory/copyai) |
 | [Writesonic](https://writesonic.com/) | Writer with fact-check features | Freemium | [Review](https://faceless.directory/directory/writesonic) |
+| [GetYouTubeTranscript](https://getyoutubetranscript.com/) | Pull the transcript of top videos in your niche for research, outlines and hook ideas | Freemium | — |
 
 **Pro tip:** ChatGPT/Gemini for volume; Claude for long narration scripts you will actually voice.
 

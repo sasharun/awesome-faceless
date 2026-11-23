@@ -179,6 +179,7 @@ NLE editors, word-by-word captioning, and long-to-Shorts clipping tools.
 | [Kapwing](https://kapwing.com/) | Collaborative online editor & subtitling | Freemium | [Review](https://faceless.directory/directory/kapwing) |
 | [Opus Clip](https://opus.pro/) | Long video → viral Shorts with virality scoring | Freemium / from $15/mo | [Review](https://faceless.directory/directory/opus-clip) |
 | [Clips Kitty](https://github.com/ColinGPT9/clips-studio) | Open-source local Opus Clip alternative (Ollama + Whisper, $0 fees) | Free (AGPL-3.0) | — |
+| [Ziztu Clip Maker](https://getziztu.com/clipper) | Twitch, Kick or YouTube links to captioned vertical clips | Freemium | — |
 | [Submagic](https://www.submagic.co/) | Dynamic hook-style captions & B-roll for Shorts | Paid | — |
 | [Vizard](https://vizard.ai/) | AI clipping & repurposing for social channels | Freemium | — |
 | [Munch](https://www.munchstudio.com/) | AI repurposing & trend-matched clips | Paid | — |

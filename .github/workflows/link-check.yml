@@ -1,0 +1,31 @@
+name: Link Check
+
+on:
+  schedule:
+    # Weekly on Mondays at 04:00 UTC
+    - cron: "0 4 * * 1"
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "README*.md"
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links with lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --max-retries 2
+            --timeout 15
+            --accept 200,204,206,403,429
+            --exclude "https://studio.youtube.com/"
+            --exclude "https://api.star-history.com/"
+            --exclude "https://img.shields.io/"
+            README.md README.zh-CN.md README.es.md README.ja.md README.ko.md
+          fail: false

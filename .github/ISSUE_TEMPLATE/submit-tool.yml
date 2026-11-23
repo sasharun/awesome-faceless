@@ -1,0 +1,63 @@
+name: Suggest a Tool / Pipeline
+description: Recommend an AI tool, open-source pipeline, or report a broken link for Awesome Faceless & Faceless Directory.
+title: "[Tool] "
+labels: ["tool-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a resource! Please share clean official URLs (no UTM or affiliate links).
+  - type: input
+    id: name
+    attributes:
+      label: Tool or Project Name
+      placeholder: e.g. Kokoro-82M or Clips Kitty
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official Website or GitHub URL
+      placeholder: https://example.com/
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Scripting & Niche Research
+        - Voice & Text-to-Speech
+        - Video Generation
+        - Video Editing, Captions & Clips
+        - Thumbnails & Graphics
+        - Music & SFX
+        - Automation & Publishing
+        - Analytics & SEO
+        - Open-Source Pipelines & Agent Skills
+        - Broken Link / Deprecated Tool Report
+    validations:
+      required: true
+  - type: input
+    id: pricing
+    attributes:
+      label: Pricing or Open-Source License
+      placeholder: e.g. Free (Apache-2.0) / Freemium (15 min free, from $12/mo)
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Why does it belong on Awesome Faceless?
+      placeholder: One or two factual sentences on the job-to-be-done and what makes it stand out.
+    validations:
+      required: true
+  - type: checkboxes
+    id: disclosure
+    attributes:
+      label: Affiliation & Quality Check
+      options:
+        - label: The URL is clean (no UTM tracking or affiliate codes).
+          required: true
+        - label: I am the creator or affiliated with this tool (optional, just helps us review transparently).
+          required: false

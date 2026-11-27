@@ -277,6 +277,7 @@ Active GitHub projects that generate, edit, or clip faceless videos end-to-end (
 | [Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | Coding agents (Claude Code / Codex / Cursor) edit timelines & render checked MP4s | ★350+, MIT, active |
 | [Dark2C/Viral-Faceless-Shorts-Generator](https://github.com/Dark2C/Viral-Faceless-Shorts-Generator) | Containerized trending topics → script → TTS → FFmpeg Shorts | ★120+ |
 | [aruntemme/n8n-faceless-youtube](https://github.com/aruntemme/n8n-faceless-youtube) | Ready-to-import n8n workflow templates for faceless YouTube | n8n |
+| [reelstyles/reelstyles-free](https://github.com/reelstyles/reelstyles-free) | 9 free film style kits; a coding agent animates and renders the MP4 locally | ★4, MIT, last push 24 Nov 2026 |
 
 **Prompt & Agent Skill Libraries:**
 - [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) — Curated Seedance 2.0/2.5 prompts and video workflows
